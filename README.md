@@ -15,4 +15,4 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ### Larissa Gonçalves
 
-### Linkedin: [https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/larissafernanda/)
+### Linkedin: [https://www.linkedin.com/in/larissafernanda/]
