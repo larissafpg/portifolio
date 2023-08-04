@@ -14,5 +14,3 @@ Olá, Bem vindo ao meu projeto de portfólio.
 ## Feito por:
 
 ### Larissa Gonçalves
-
-### Linkedin: [https://www.linkedin.com/in/larissafernanda/]
